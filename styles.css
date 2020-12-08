@@ -50,18 +50,19 @@ a:visited {
     }
 }
 
-img {
+#image {
     max-width: 100%;
     display: block;
     /* padding: 10px 10px 10px 0; */
     height: auto;
-    margin: 0 auto;
+    margin: auto;
 }
 
 #img-div {
     background: white;
+    margin: auto;
     padding: 10px;
-    margin: 0;
+    max-width: 200px;
 }
 
 #img-caption {
